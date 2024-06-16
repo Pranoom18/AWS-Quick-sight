@@ -1,6 +1,8 @@
 # AWS-Quick-sight
 Data analysis of spotify data using AWS services like S3, GlueETL, Athena and Quicksight
 
+![image](https://github.com/Pranoom18/AWS-Quick-sight/assets/94820532/1bbec196-7572-4b65-9dbd-f842de56d60e)
+
 Step 1: Upload Data to S3 Bucket
 Log in to AWS Console:
 
@@ -73,3 +75,6 @@ Create a Dashboard:
 Combine your visualizations into a comprehensive dashboard.
 Share the dashboard with stakeholders as needed.
 By following these steps, you can effectively analyze and visualize the Spotify dataset using AWS tools such as S3, Glue, Athena, and QuickSight.
+
+![image](https://github.com/Pranoom18/AWS-Quick-sight/assets/94820532/41714af4-4121-4fdc-98ac-4527d9578d89)
+
